@@ -56,7 +56,7 @@ export const Navbar = () => {
                 : "/orinn/logo_orinn_light.svg"
             }
             alt="Orinn Studio Logo"
-            className="h-20 w-auto transition-all duration-300"
+            className="h-16 w-auto transition-all duration-300"
           />
         </a>
 
