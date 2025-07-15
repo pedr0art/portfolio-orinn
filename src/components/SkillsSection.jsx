@@ -12,12 +12,15 @@ const skills = [
   { name: "Python",  category: "desenvolvimento de software" },
   { name: "C++",  category: "desenvolvimento de software" },
   { name: "HTML/CSS", category: "desenvolvimento de software" },
+  { name: "Java",  category: "desenvolvimento de software" },
   { name: "JavaScript",  category: "desenvolvimento de software" },
+  { name: "Java",  category: "desenvolvimento de software" },
   { name: "React",  category: "desenvolvimento de software" },
   { name: "Node.js",  category: "desenvolvimento de software" },
   { name: "Electron", category: "desenvolvimento de software" },
   { name: "Express",  category: "desenvolvimento de software" },
   { name: "PostgreSQL", category: "desenvolvimento de software" },
+  { name: "Power Apps", category: "desenvolvimento de software" },
   
 
   // Tools
@@ -31,6 +34,8 @@ const skills = [
   { name: "Docker", category: "ferramentas" },
   { name: "Figma",  category: "ferramentas" },
   { name: "VS Code", category: "ferramentas" },
+  { name: "Power Automate", category: "desenvolvimento de software" },
+  { name: "Power BI", category: "desenvolvimento de software" },
 ];
 
 const categories = ["tudo", "game development", "desenvolvimento de software", "ferramentas"];
